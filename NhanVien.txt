@@ -1,0 +1,6 @@
+Phong: CEO
+Duc: nuong thit
+Khanh: Nau com
+Thang: uop thit
+Hang: HR
+
